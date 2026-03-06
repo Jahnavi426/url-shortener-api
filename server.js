@@ -6,7 +6,7 @@ const app = express();
 app.use(express.json());
 
 // MongoDB connection string
-const uri = "mongodb+srv://jahnavims:2112%40Admin@cluster0.ujq0yeu.mongodb.net/?appName=Cluster0";
+const uri = "mongodb+srv://username:pwd@cluster0.ujq0yeu.mongodb.net/?appName=Cluster0";
 
 const client = new MongoClient(uri);
 
