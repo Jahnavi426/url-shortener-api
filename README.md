@@ -8,8 +8,6 @@ Create short URLs
 
 Redirect short URLs to original URLs
 
-Track URL usage (optional)
-
 RESTful API design
 
 Built with Node.js and Express
