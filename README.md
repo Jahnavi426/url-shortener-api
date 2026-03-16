@@ -12,7 +12,7 @@ RESTful API design
 
 Built with Node.js and Express
 
-Tech Stack
+Tech Stack:
 
 Node.js
 
