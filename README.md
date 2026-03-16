@@ -22,6 +22,4 @@ Express.js
 
 MongoDB / Mongoose
 
-NanoID or ShortID for unique IDs
 
-dotenv for environment variables
